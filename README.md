@@ -37,9 +37,9 @@ brew install trash-cli fzf eza fd
 ```
 
 
-after you installed the dependencies you need to copy the script into a file 
+after you installed the dependencies you need to clone the script onto your machine 
 ```sh
-git clone https://github.com/divalin757/fzf-file-manager/filemanager.sh
+curl -L -o filemanager.sh https://raw.githubusercontent.com/divalin757/fzf-file-manager/main/filemanager.sh
 ```
 then you need to make the script executeable like so
 
