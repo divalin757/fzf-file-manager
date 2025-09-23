@@ -1,14 +1,3 @@
-## Previews
-
-<details>
-  <summary>🖼 Screenshot 1</summary>
-  <img src="imgs/Screenshot%20from%202025-09-23%2020-49-03.png" alt="Screenshot 1" width="600"/>
-</details>
-
-<details>
-  <summary>🖼 Screenshot 2</summary>
-  <img src="imgs/Screenshot%20from%202025-09-23%2020-49-11.png" alt="Screenshot 2" width="600"/>
-</details>
 
 # fzf-file-manager
 an amazing fzf file manager written in bash
@@ -43,5 +32,17 @@ after you made the script executable just run the script like so
 ```sh
 ./filemanager.sh
 ```
+## Screenshots
+
+<details>
+  <summary>🖼 Screenshot 1</summary>
+  <img src="imgs/Screenshot%20from%202025-09-23%2020-49-03.png" alt="Screenshot 1" width="600"/>
+</details>
+
+<details>
+  <summary>🖼 Screenshot 2</summary>
+  <img src="imgs/Screenshot%20from%202025-09-23%2020-49-11.png" alt="Screenshot 2" width="600"/>
+</details>
+
 
 and thats it hope you enjoy
