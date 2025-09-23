@@ -4,20 +4,22 @@ an amazing fzf file manager written in bash
 ## installtion
 installtion is very simple you just need to copy the script into a file then make it executeable like so
 
-``sh
+```sh
 chmod +x filemanager.sh
-``
+```
 
 then you will need to install a couple dependencies
+
 for arch based
-``sh
+
+```sh
 sudo pacman -S fzf exa trash-cli
-``
+```
 for debian based
-``sh
+```sh
 sudo apt install trash-cli fzf exa
-``
+```
 for fedora based
-``sh
+```sh
 sudo dnf install trash-cli fzf exa
-``
+```
