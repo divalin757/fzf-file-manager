@@ -19,7 +19,9 @@ with brew
 ```sh
 brew install fzf trash-cli exa fd
 ```
-after you installed the dependencies you need to make the script executeable like so
+after you installed the dependencies you need to copy the script into a file 
+
+then you need to make the script executeable like so
 
 ```sh
 chmod +x filemanager.sh
