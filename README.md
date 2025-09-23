@@ -1,14 +1,4 @@
-<details>
-  <summary>Show Screenshot 1</summary>
-  
-  <img src="Screenshot%20from%202025-09-23%2020-49-03.png" alt="Screenshot 1" width="500">
-</details>
 
-<details>
-  <summary>Show Screenshot 2</summary>
-  
-  <img src="Screenshot%20from%202025-09-23%2020-49-11.png" alt="Screenshot 2" width="500">
-</details>
 # fzf-file-manager
 an amazing fzf file manager written in bash
 
