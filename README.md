@@ -11,16 +11,32 @@ sudo pacman -S fzf exa trash-cli fd
 ```
 for debian based
 ```sh
-sudo apt install trash-cli fzf exa fd
+sudo apt install trash-cli fzf exa fd-find
 ```
+
 for fedora based
 ```sh
-sudo dnf install trash-cli fzf exa fd
+sudo dnf install trash-cli fzf eza fd-find
 ```
+for centos
+```sh
+sudo yum install trash-cli fzf eza
+```
+with Zypper
+```sh
+sudo zypper install trash-cli fzf exa fd
+```
+with apk
+```sh
+sudo apk add trash-cli fzf exa fd
+```
+
 with brew
 ```sh
-brew install fzf trash-cli exa fd
+brew install trash-cli fzf eza fd
 ```
+
+
 after you installed the dependencies you need to copy the script into a file 
 
 then you need to make the script executeable like so
