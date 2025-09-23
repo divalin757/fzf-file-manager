@@ -144,7 +144,7 @@ open_files() {
 }
 
 #------------------------#
-#makeing the actions work#
+#making the actions work#
 #------------------------#
 if [[ $actions == "rename" ]]; then
   file_rename 
