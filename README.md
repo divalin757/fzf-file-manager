@@ -36,13 +36,13 @@ after you made the script executable just run the script like so
 
 
 <details>
-  <summary>🖼 Screenshot 1</summary>
+  <summary>file selection</summary>
   <img src="imgs/Screenshot%20from%202025-09-23%2020-58-24.png" alt="Screenshot 1" width="600"/>
 </details>
 
 <details>
-  <summary>🖼 Screenshot 2</summary>
-  <img src="imgs/Screenshot%20from%202025-09-23%2020-58-28.png" alt="Screenshot 2" width="600"/>
+  <summary>Actions</summary>
+  <img src="imgs/Screenshot%20from%202025-09-23%2020-58-28.png" alt="Screenshot 2" width="700"/>
 </details>
 
 and thats it hope you enjoy
