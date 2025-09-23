@@ -4,6 +4,7 @@
 
 #----------------------------------#
 #main thing that displays the files#
+#----------------------------------#
 file=$(exa --icons --no-permissions -la --no-filesize --no-time --no-user |fzf --prompt " > ")
 actions=$(echo "delete rename create-file create-dir trash empty-trash restore-trash list-trash move-files change-dir" | tr ' ' '\n' |fzf)
 
