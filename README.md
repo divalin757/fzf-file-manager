@@ -34,15 +34,15 @@ after you made the script executable just run the script like so
 ```
 ## Screenshots
 
+
 <details>
-  <summary>file selection </summary>
-  <img src="imgs/Screenshot%from%2025-09-23%20-58-24.png" alt="Screenshot 1" width="600"/>
+  <summary>🖼 Screenshot 1</summary>
+  <img src="imgs/Screenshot%20from%202025-09-23%2020-58-24.png" alt="Screenshot 1" width="600"/>
 </details>
 
 <details>
-  <summary>actions</summary>
-  <img src="imgs/Screenshot%20from%202025-09-23%2020-49-11.png" alt="Screenshot 2" width="600"/>
+  <summary>🖼 Screenshot 2</summary>
+  <img src="imgs/Screenshot%20from%202025-09-23%2020-58-28.png" alt="Screenshot 2" width="600"/>
 </details>
-
 
 and thats it hope you enjoy
