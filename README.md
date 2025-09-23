@@ -34,6 +34,3 @@ after you installed the dependencies just run the script like so
 ```
 
 and thats it 
-
-## configuration
-configuration is done by editing the source code it just one file so its pretty simple i also left comments to tell what each thing does
