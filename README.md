@@ -45,4 +45,3 @@ after you made the script executable just run the script like so
   <img src="imgs/Screenshot%20from%202025-09-23%2020-58-28.png" alt="Screenshot 2" width="700"/>
 </details>
 
-and thats it hope you enjoy
