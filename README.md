@@ -36,7 +36,7 @@ after you made the script executable just run the script like so
 
 <details>
   <summary>file selection </summary>
-  <img src="imgs/Screenshot%20from%202025-09-23%2020-49-03.png" alt="Screenshot 1" width="600"/>
+  <img src="imgs/Screenshot%from%2025-09-23%20-58-24.png" alt="Screenshot 1" width="600"/>
 </details>
 
 <details>
