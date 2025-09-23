@@ -18,4 +18,4 @@ Thank you for wanting to help! 😄
 ## Tips
 - Keep changes small and easy to understand.  
 - Make sure images and links work correctly.  
-- Be friendly and patient—your help is appreciated! 😄
+- Be friendly and patient your help is appreciated! 😄
