@@ -5,6 +5,7 @@ an amazing fzf file manager written in bash
 ## installtion
 installtion is very simple you just need to install all the dependencies like so 
 
+for arch based
 ```sh
 sudo pacman -S fzf exa trash-cli fd
 ```
