@@ -51,6 +51,10 @@ after you made the script executable just run the script like so
 ```sh
 ./filemanager.sh
 ```
+
+## Usage
+
+
 ## Screenshots
 
 
