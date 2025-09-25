@@ -44,7 +44,7 @@ curl -L -o filemanager.sh https://raw.githubusercontent.com/divalin757/fzf-file-
 
 or you can install the alpha version (it is verry buggy so i wont make it the main one yet) but it does look cooler
 ```sh
-curl -L -o filemanager.sh https://raw.githubusercontent.com/divalin757/fzf-file-manager/main/filemanager-alpha.sh
+curl -L -o filemanager-alpha.sh https://raw.githubusercontent.com/divalin757/fzf-file-manager/main/filemanager-alpha.sh
 ```
 then you need to make the script executeable like so
 
