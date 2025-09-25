@@ -37,12 +37,12 @@ brew install trash-cli fzf eza fd
 ```
 
 
-after you installed the dependencies you need to clone the script onto your machine 
+after you installed the dependencies you can clone the stable version of the script onto your machine 
 ```sh
 curl -L -o filemanager.sh https://raw.githubusercontent.com/divalin757/fzf-file-manager/main/filemanager.sh
 ```
 
-or you can install the alpha version (it is verry buggy so i wont make it the main one yet)
+or you can install the alpha version (it is verry buggy so i wont make it the main one yet) but it does look cooler
 ```sh
 curl -L -o filemanager.sh https://raw.githubusercontent.com/divalin757/fzf-file-manager/main/filemanager-alpha.sh
 ```
