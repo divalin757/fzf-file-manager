@@ -41,6 +41,11 @@ after you installed the dependencies you need to clone the script onto your mach
 ```sh
 curl -L -o filemanager.sh https://raw.githubusercontent.com/divalin757/fzf-file-manager/main/filemanager.sh
 ```
+
+or you can install the alpha version (it is verry buggy so i wont make it the main one yet)
+```sh
+curl -L -o filemanager.sh https://raw.githubusercontent.com/divalin757/fzf-file-manager/main/filemanager-alpha.sh
+```
 then you need to make the script executeable like so
 
 ```sh
