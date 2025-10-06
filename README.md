@@ -7,45 +7,41 @@ installtion is very simple you just need to install all the dependencies like so
 
 for arch based
 ```sh
-sudo pacman -S fzf exa trash-cli fd
+sudo pacman -S fzf exa trash-cli fd ripgrep
 ```
 for debian based
 ```sh
-sudo apt install trash-cli fzf exa fd-find
+sudo apt install trash-cli fzf exa fd-find ripgrep
 ```
 
 for fedora based
 ```sh
-sudo dnf install trash-cli fzf eza fd-find
+sudo dnf install trash-cli fzf eza fd-find ripgrep
 ```
 for centos
 ```sh
-sudo yum install trash-cli fzf eza
+sudo yum install trash-cli fzf eza ripgrep
 ```
 with Zypper
 ```sh
-sudo zypper install trash-cli fzf exa fd
+sudo zypper install trash-cli fzf exa fd ripgrep
 ```
 with apk
 ```sh
-sudo apk add trash-cli fzf exa fd
+sudo apk add trash-cli fzf exa fd ripgrep
 ```
 
 with brew
 ```sh
-brew install trash-cli fzf eza fd
+brew install trash-cli fzf eza fd ripgrep
 ```
 
 
-after you installed the dependencies you can clone the stable version of the script onto your machine 
+after you installed the dependencies you can clone the script onto your machine 
 ```sh
 curl -L -o filemanager.sh https://raw.githubusercontent.com/divalin757/fzf-file-manager/main/filemanager.sh
 ```
 
-or you can install the alpha version (it is verry buggy so i wont make it the main one yet) but it does look cooler
-```sh
-curl -L -o filemanager-alpha.sh https://raw.githubusercontent.com/divalin757/fzf-file-manager/main/filemanager-alpha.sh
-```
 then you need to make the script executeable like so
 
 ```sh
@@ -72,5 +68,15 @@ after you made the script executable just run the script like so
   <summary>Actions</summary>
   <img src="imgs/Screenshot%20from%202025-09-23%2020-58-28.png" alt="Screenshot 2" width="700"/>
 </details>
+
+
+# Known bugs
+* when an action is choosen then an action after it it will repeat the last action before doing the one you choose
+
+# Road Map For file manager
+* add file compressing decompressing for zip and tar 
+* add file actions with find files
+* add file copy paste
+
 
 If you want to contribute, please see [CONTRIBUTING.md](CONTRIBUTING.md).
