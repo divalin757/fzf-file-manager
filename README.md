@@ -78,5 +78,6 @@ after you made the script executable just run the script like so
 * add file actions with find files
 * add file copy paste
 
+# Contributing
 
 If you want to contribute, please see [CONTRIBUTING.md](CONTRIBUTING.md).
