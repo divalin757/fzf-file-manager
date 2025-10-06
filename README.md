@@ -39,7 +39,7 @@ brew install trash-cli fzf eza fd ripgrep
 
 after you installed the dependencies you can clone the script onto your machine 
 ```sh
-curl -L -o filemanager.sh https://raw.githubusercontent.com/divalin757/fzf-file-manager/main/filemanager.sh
+curl -L -o filemanager.sh https://raw.githubusercontent.com/divalin757/fzf-file-manager/refs/heads/main/filemgr.sh
 ```
 
 then you need to make the script executeable like so
