@@ -53,6 +53,12 @@ after you made the script executable just run the script like so
 ./filemanager.sh
 ```
 
+if you want to be able to run from any where then do
+```bash
+sudo mv filemanager.sh /usr/local/bin/filemanager.sh 
+```
+or any other name you want
+
 ## Usage
 
 
