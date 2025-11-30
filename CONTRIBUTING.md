@@ -8,7 +8,8 @@ Thank you for wanting to help
    - Click the “Fork” button on GitHub to make your own copy.
 
 2. **Make your changes**  
-   - You can fix typos, improve the README, or update images.  
+   - You can fix typos, improve the README, or update images.
+   - You can take one of the todos at the bottom any do them
    - Edit files directly in your fork.
 
 3. **Open a Pull Request (PR)**  
